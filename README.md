@@ -7,16 +7,12 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 
 ---
 
-아래는 해당 기술 스택을 **배지 스타일**로 꾸민 GitHub ReadMe입니다. [Shields.io](https://shields.io/)와 같은 도구를 활용하여 배지를 생성하였으며, 시각적으로 더 깔끔하고 전문적으로 보이도록 구성했습니다.
-
----
-
 ### 🛠️ Tech Stack  
 
 #### 🎨 **Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  ![Zustand](https://img.shields.io/badge/Zustand-3B3B3B?style=for-the-badge&logo=zustand&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  ![Recoil](https://img.shields.io/badge/Recoil-007AF4?style=for-the-badge&logo=recoil&logoColor=white)
 <!-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  -->
 
 #### 🖥️ **Backend**  
@@ -29,7 +25,8 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 
 #### 🚀 **DevOps & Tools**  
 - **Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 - **CI/CD**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
@@ -64,8 +61,22 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 ---
 
 ### 📊 GitHub Stats  
-[![Haram's GitHub stats](https://github-readme-stats.vercel.app/api?username=haram8009&show_icons=true&theme=radical)](https://github.com/haram8009)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haram8009&layout=compact&theme=radical)](https://github.com/haram8009)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/haram8009">
+          <img src="https://github-readme-stats.vercel.app/api?username=haram8009&show_icons=true&theme=radical" alt="Haram's GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/haram8009">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haram8009&layout=compact&theme=radical" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
