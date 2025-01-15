@@ -58,8 +58,8 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 #### 🐾 **Pawsome Day**  
 - **Description**: An app for seamless communication between dog daycare centers and their clients.  
 - **Features**: Photo and diary sharing, booking management  
-- **Tech Stack**: React Native, Firebase Auth, Prisma ORM, AWS S3  
-- [Repository Link](https://github.com/dovelopers/back)
+- **Tech Stack**: React Native, Express.js, Node.js, Typescript, Firebase Auth, Prisma ORM, AWS, PM2
+- [Repository Link](https://github.com/gpbl-doveloper/back)
 
 <!-- #### 📈 **Decentralized Voting System**  
 - **Description**: A blockchain-based voting platform  
