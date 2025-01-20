@@ -62,6 +62,7 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 - **Features**: Photo and diary sharing, booking management  
 - **Tech Stack**: React Native, Express.js, Node.js, Typescript, Firebase Auth, Prisma ORM, AWS, PM2
 - [Repository Link](https://github.com/gpbl-doveloper/back)
+- [LinkedIn Post](https://www.linkedin.com/in/haram-8009-lee/details/projects/)
 
 <!-- #### 📈 **Decentralized Voting System**  
 - **Description**: A blockchain-based voting platform  
