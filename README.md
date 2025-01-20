@@ -57,7 +57,8 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 
 ### 📚 Featured Projects  
 #### 🐾 **Pawsome Day**  
-- **Description**: An app for seamless communication between dog daycare centers and their clients.  
+- **Project Objective**: To streamline communication between pet daycare centers and pet owners by creating a dual-facing app prototype that improves transparency and operational efficiency.
+- **My Contributions**: Designed the service architecture, deployed the backend on AWS, and implemented CI/CD pipelines using GitHub Actions. Managed server stability with PM2 and ensured seamless integration with the frontend team
 - **Features**: Photo and diary sharing, booking management  
 - **Tech Stack**: React Native, Express.js, Node.js, Typescript, Firebase Auth, Prisma ORM, AWS, PM2
 - [Repository Link](https://github.com/gpbl-doveloper/back)
@@ -69,12 +70,12 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 - [Repository Link](https://github.com/yourusername/decentralized-voting)
 -->
 ---
-
+<!--
 ### 🌱 Currently Learning  
 - Advanced blockchain development (Solana)    
 - Mobile app optimization with Flutter  
 
----
+--- -->
 
 ### 📊 GitHub Stats  
 <div align="center">
