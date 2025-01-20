@@ -2,9 +2,10 @@
 ## 🌟 Haram Lee | Fullstack Developer  
 Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and building efficient, user-friendly web applications. With experience in both frontend and backend, I specialize in turning ideas into impactful products.  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haram-8009-lee/)  
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=dev.to&logoColor=white)](https://yourportfolio.com) -->
-
+### 📩 Contact Me  
+- **Email**: haram8009@gmail.com  
+- **LinkedIn**: [Haram Lee](https://www.linkedin.com/in/haram-8009-lee/)  
 ---
 
 ### 🛠️ Tech Stack  
@@ -95,7 +96,5 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 
 ---
 
-### 📩 Contact Me  
-- **Email**: haram8009@gmail.com  
-- **LinkedIn**: [Haram Lee](https://www.linkedin.com/in/haram-8009-lee/)  
+
 
