@@ -64,39 +64,5 @@ Hi there! I'm Haram, a passionate fullstack developer dedicated to designing and
 - [Repository Link](https://github.com/gpbl-doveloper/back)
 - [LinkedIn Post](https://www.linkedin.com/in/haram-8009-lee/details/projects/)
 
-<!-- #### 📈 **Decentralized Voting System**  
-- **Description**: A blockchain-based voting platform  
-- **Features**: OAuth 2.0 authentication, vote creation/participation, result tracking  
-- **Tech Stack**: Solana, Go, Flutter  
-- [Repository Link](https://github.com/yourusername/decentralized-voting)
--->
----
-<!--
-### 🌱 Currently Learning  
-- Advanced blockchain development (Solana)    
-- Mobile app optimization with Flutter  
-
---- -->
-
-### 📊 GitHub Stats  
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/haram8009">
-          <img src="https://github-readme-stats.vercel.app/api?username=haram8009&show_icons=true&theme=radical" alt="Haram's GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/haram8009">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haram8009&layout=compact&theme=radical" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 
 
